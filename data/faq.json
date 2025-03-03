@@ -1,0 +1,102 @@
+[
+  {
+    "kategori": "Pendaftaran",
+    "pertanyaan": "Bagaimana jika belum memiliki KTP? Dokumen apa yang dapat menggantikan?",
+    "jawaban": "KTP bisa digantikan dengan Surat Keterangan Kependudukan dari Dukcapil atau Kartu Keluarga (KK) atau dokumen lain yang mencantumkan Nomor Induk Kependudukan."
+  },
+  {
+    "kategori": "Pendaftaran",
+    "pertanyaan": "Dimanakah informasi mengenai jalur PSSB Vokasi?",
+    "jawaban": "silakan hubungi kami melalui live chat Halo Undip."
+  },
+  {
+    "kategori": "Pendaftaran",
+    "pertanyaan": "Bagaimana solusi bila saya sudah memilih provinsi tapi tidak muncul Kota atau Kabupatennya?",
+    "jawaban": "Silakan pilih Provinsi lain dahulu, setelah muncul Kota dan Kabupatennya silakan kembali pilih Provinsi asal."
+  },
+  {
+    "kategori": "Pendaftaran",
+    "pertanyaan": "Bagaimana bila mau mengisikan nilai raport tetapi tidak muncul kolom untuk memasukkan nilainya?",
+    "jawaban": "Untuk dapat mengisikan nilai Raport pastikan data prestasi bagian kurikulum sudah diisi secara urut mulai dari Kelompok SMA, Jurusan hingga jenis kelas secara benar."
+  },
+  {
+    "kategori": "Pendaftaran",
+    "pertanyaan": "Nilai yang harus diinputkan untuk mengisi nilai raport itu nilai pengetahuan atau nilai keterampilan atau rata-rata keduanya?",
+    "jawaban": "Untuk nilai yang diinputkan itu nilai pengetahuan saja, jika ada nilai peminatan maka nilai peminatan hanya akan muncul jika memilih Jurusan Peminatan IPA."
+  },
+  {
+    "kategori": "Pendaftaran",
+    "pertanyaan": "Bagaimana bila mendapatkan billkey pembayaran akan tetapi tidak dapat dibayarkan karena billkey gagal?",
+    "jawaban": "Silahkan menghubungi helpdesk PMB atau menuliskan chat di halo.undip.ac.id nanti akan kami bantu untuk melakukan tracer terhadap Billkey tersebut."
+  },
+  {
+    "kategori": "Pendaftaran",
+    "pertanyaan": "Bagaimana bila sudah melakukan pembayaran akan tetapi status pembayaran masih belum berubah menjadi terbayar?",
+    "jawaban": "Silahkan untuk merefresh browser atau me log out dari aplikasi Pendaftaran agar statusnya berubah menjadi Terbayar. Jika tetap tidak mengalami perubahan segera hubungi Helpdesk PMB."
+  },
+  {
+    "kategori": "Pendaftaran",
+    "pertanyaan": "Apakah bila tidak memiliki Prestasi lain boleh mengikuti PSSB Vokasi Undip dan bagaimana peluang diterimanya?",
+    "jawaban": "Diperbolehkan dan peluang diterimanya juga sama karena berdasarkan nilai."
+  },
+  {
+    "kategori": "Pendaftaran",
+    "pertanyaan": "Untuk Jalur PSSB Vokasi Undip boleh memilih berapa pilihan Program Studi?",
+    "jawaban": "Diperbolehkan untuk memilih 2 Pilihan Program Studi."
+  },
+  {
+    "kategori": "Pendaftaran",
+    "pertanyaan": "Apabila siswa lulusan tahun sebelumnya apakah data raport yang diisikan tetap 6 Semester atau hanya 5 Semester?",
+    "jawaban": "Untuk isian nilai Raport data yang diisikan hanya 5 semester saja."
+  },
+  {
+    "kategori": "Pendaftaran",
+    "pertanyaan": "Untuk jalur SBUB nilai yang dipergunakan nilai rata-rata keseluruhan Raport atau nilai 6 Mapel sesuai dengan SNMPTN?",
+    "jawaban": "Nilai yang dipergunakan untuk Jalur SBUB adalah nilai Rata-Rata keseluruhan raport tiap Semester dengan standar penilaian minimal 7 (skala 10) atau 70 (skala 100)."
+  },
+  {
+    "kategori": "Akademik",
+    "pertanyaan": "Bagaimana cara mengganti data di reg online?",
+    "jawaban": "Silakan menyebutkan no. peserta, nama lengkap, jalur penerimaan, data apa yang mau di ganti, dan lampirkan scan KTP."
+  },
+  {
+    "kategori": "Akademik",
+    "pertanyaan": "Bagaimana jika belum melampirkan salah satu berkas verifikasi?",
+    "jawaban": "Jika yang kurang adalah salah satu dari berkas verifikasi, maka harus upload ulang keseluruhan berkasnya. Sekali lagi perhatikan sesuai bloknya. Berkas yang diupload juga harus urut."
+  },
+  {
+    "kategori": "Akademik",
+    "pertanyaan": "Menu cetak KTM ada dimana ya?",
+    "jawaban": "Menu cetak KTM ada di dalam menu Cetak Formulir & KTM."
+  },
+  {
+    "kategori": "Akademik",
+    "pertanyaan": "Mengapa ketika upload berkas reg online selalu gagal?",
+    "jawaban": "Coba perhatikan format file dan ukuran maksimal berkas yang diupload. Kalau tidak sesuai memang tidak bisa."
+  },
+  {
+    "kategori": "Akademik",
+    "pertanyaan": "Mengapa saya belum menerima email dari Undip terkait pembuatan akun SSO?",
+    "jawaban": "Email dari Undip terkait SSO akan dikirim apabila sudah dinyatakan lolos verifikasi berkas. Silakan cek inbox/spam emailnya. Atau mungkin email yang didaftarkan salah, jadi email dari Undip tidak masuk."
+  },
+  {
+    "kategori": "IT",
+    "pertanyaan": "Bagaimana Cara Mendapatkan Email bagi Dosen dan pegawai?",
+    "jawaban": "Undip menyediakan beberapa email untuk dosen dan Pegawai\n1. Email dengan alamat @undip.ac.id\n2. Email dengan alamat @live.undip.ac.id. Untuk mendapatkannya silakan menghubungi bagian Helpdesk bisa melalui: \n 1. Portal http://helpdesk.undip.ac.id \n2 Email ke helpdesk@live.undip.ac.id \n3. Telepon 024-76401553 (jam kerja) \n4. atau Datang langsung ke Gedung SA MWA lantai 2 Bagian Pelayanan Informasi BAPSI Jl. Prof. Soedarto SH, No.1 Tembalang"
+  },
+  {
+    "kategori": "IT",
+    "pertanyaan": "Bagaimana Cara mendapatkan Email Student Undip?",
+    "jawaban": "Mahasiswa Undip berhak mendapatkan email Undip, syarat untuk mengajukannya adalah Mahasiswa undip aktif, untuk pengajuan silakan isi form di http://www.student.undip.ac.id: \n1. Silakan kunjungi http://student.undip.ac.id \n2. Silakan Isi data yang benar \n3. Bila sudah dibuatkan, maka daftar yang mengajukan email akan masuk dalam daftar email yang sudah di proses \n4. Silakan masuk ke https://mail.google.com/mail kemudian masukkan alamat email yang sudah dibuat tadi, kemudian masukkan password \n5. Email sudah bisa digunakan"
+  },
+  {
+    "kategori": "IT",
+    "pertanyaan": "Bagaimana Cara Reset Password Email Afiliasi Google ?",
+    "jawaban": "Untuk Reset Password email : \n1. email @undip.ac.id \n2. email @live.undip.ac.id \n3. email @student.undip.ac.id. \nsilakan menghubungi bagian Helpdesk bisa melalui: \n1. Portal http://helpdesk.undip.ac.id \n2. Email ke helpdesk@live.undip.ac.id \n3. Telepon 024-76401553 (jam kerja) \n4. atau Datang langsung ke Gedung SA-MWA lantai 2 Helpdesk IT BAPSI Tembalang. \nKhusus email yang berafiliasi dengan Google Apps, prosedur reset password bisa dilakukan sendiri karena email ini sama semerti gmail, dengan memilih Forgot password"
+  },
+  {
+    "kategori": "IT",
+    "pertanyaan": "Bagaimana Cara Mendapatkan Hosting di Server Undip ?",
+    "jawaban": "Hosting Undip merupakan layanan penyediaan Ruang penyimpanan untuk website maupun Aplikasi, syarat untuk Hosting adalah lembaga/Unit di Lingkungan Universitas Diponegoro, termasuk lembaga-lembaga Mahasiswa untuk mendapatkannya silakan menghubungi bagian Helpdesk dengan membawa surat permohonan yang ditandantangani oleh pimpinan, kemudian disampaikan ke helpdesk IT UNDIP melalui \n1. Portal http://helpdesk.undip.ac.id \n2. Email ke helpdesk@live.undip.ac.id \n3. atau Datang langsung ke Gedung SA MWA lantai 2 Bagian Pelayanan Informasi BAPSI Jl. Prof. Soedarto SH, No.1 Tembalang \nDengan mengisikan form pendaftaran Hosting UNDIP."
+  }
+]
