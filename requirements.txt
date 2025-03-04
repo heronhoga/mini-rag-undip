@@ -1,0 +1,4 @@
+chromadb
+nltk
+sentence_transformers
+numpy
