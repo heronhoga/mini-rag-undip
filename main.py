@@ -4,11 +4,9 @@ from sentence_transformers import SentenceTransformer
 
 model = SentenceTransformer("all-MiniLM-L6-v2")  
 
-# Inisialisasi ChromaDB
-chroma_client = chromadb.PersistentClient(path="./db_undip")  # Pastikan path sesuai
+chroma_client = chromadb.PersistentClient(path="./db_undip") 
 collection = chroma_client.get_or_create_collection(name="faq_kampus")
 
-# Fungsi utama
 def main():
     while True:
         query = input("Masukkan pertanyaan Anda: ")  
